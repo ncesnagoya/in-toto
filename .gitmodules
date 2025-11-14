@@ -1,4 +1,4 @@
 [submodule "demo"]
 	path = demo
-	url = https://www.nces.i.nagoya-u.ac.jp/gitlab/autosec/in-toto/demo.git
+	url = https://github.com/ncesnagoya/in-toto-demo
 	branch = develop_intoto_demo
